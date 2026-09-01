@@ -4,6 +4,6 @@
     "abnormality-teth.json",
     "abnormality-he.json",
     "abnormality-waw.json",
-    "abnormality-aleph.json"
+    "aleph": "https://raw.githubusercontent.com/Void-Architect1/Tuantu-s-Lobotomization-Branches-VN-Database/refs/heads/main/abnormality-aleph.json"
   ]
 }
